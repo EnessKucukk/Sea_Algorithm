@@ -24,4 +24,4 @@ Uygulama açıldığında, Bit Boyutu bölümünden bir bit boyutu seçin.
 Anahtar Yönetimi bölümünde, otomatik anahtar oluşturabilir veya manuel bir anahtar girebilirsiniz.
 İşlem bölümünden şifreleme veya deşifreleme işlemini seçin.
 Dosya Seçimi bölümünden bir metin dosyası seçin.
-İşlemi tamamladıktan sonra, dosyanın kaydedileceği yeri belirti
+İşlemi tamamladıktan sonra, dosyanın kaydedileceği yeri belirtin.
